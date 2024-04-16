@@ -1,0 +1,38 @@
+Token:
+
+Vocab size  : 2273
+Precision@1 : 0.5400
+Precision@5 : 0.7700
+Precision@10: 0.8155
+
+
+Stemms:
+
+Vocab size  : 2011
+Precision@1 : 0.6200
+Precision@5 : 0.8005
+Precision@10: 0.8415
+
+
+Lemma:
+
+Vocab size  : 1997
+Precision@1 : 0.6400
+Precision@5 : 0.7955
+Precision@10: 0.8328
+
+
+NER and POS:
+
+Vocab size  : 2190
+Precision@1 : 0.5500
+Precision@5 : 0.7980
+Precision@10: 0.8215
+
+
+Special (Stemm + Lemma + Gaussian Noise) [Over 100 Runs]:
+
+Mean Vocab Size  : 1951.0
+Mean Precision@1 : 0.6109
+Mean Precision@5 : 0.8183
+Mean Precision@10: 0.8492
